@@ -1,7 +1,7 @@
 {
   "name": "TrainTraker",
   "short_name": "TrainTraker",
-  "start_url": "index.html",
+  "start_url": "TrainTracker.jsx",
   "display": "standalone",
   "background_color": "#009246",
   "theme_color": "#009246",
