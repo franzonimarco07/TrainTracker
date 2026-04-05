@@ -1,13 +1,13 @@
 {
-  "name": "GustoSmart",
-  "short_name": "GustoSmart",
+  "name": "TrainTraker",
+  "short_name": "TrainTraker",
   "start_url": "index.html",
   "display": "standalone",
-  "background_color": "#F8F9FB",
-  "theme_color": "#FF5C00",
+  "background_color": "#009246",
+  "theme_color": "#009246",
   "icons": [
     {
-      "src": "https://i.postimg.cc/HxjSYxC8/Gusto-Smart-ICON.png",
+      "src": "https://i.imgur.com/WOEo20w.png",
       "sizes": "512x512",
       "type": "image/png"
     }
